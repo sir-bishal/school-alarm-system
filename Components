@@ -1,44 +1,31 @@
 Components List
-Microcontroller:
 
+Microcontroller:
 🟢 ESP32
 
 Timekeeping Module:
-
 🟢 DS3231 RTC (Real-Time Clock)
 
 Display Module:
-
 🟢 16x2 LCD with I2C Module
 
 Relay Module:
-
 🟢 Single-channel 5V Relay Module (for controlling the bell)
 
 Push Buttons:
-
 🟢 5 x Tactile Push Buttons
-
 Mode Button (GPIO 32)
-
 Up Button (GPIO 33)
-
 Down Button (GPIO 25)
-
 Set Button (GPIO 26)
-
 Manual Bell Button (GPIO 27)
 
 Buzzer:
-
 🟢 1 x Active Buzzer (GPIO 4)
 
 Power Supply:
-
 🟢 5V/3.3V Power Supply for ESP32 and Components
 
 Connecting Wires & Breadboard/Pcb:
-
 🟢 Jumper Wires (Male-to-Male, Female-to-Male)
-
 🟢 Breadboard (for prototyping) / PCB (for final setup)
