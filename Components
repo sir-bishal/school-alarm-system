@@ -24,7 +24,7 @@ Buzzer:
 🟢 1 x Active Buzzer (GPIO 4)
 
 Power Supply:
-🟢 5V/3.3V Power Supply for ESP32 and Components
+🟢 5V / 3.3V Power Supply for ESP32 and Components
 
 Connecting Wires & Breadboard/Pcb:
 🟢 Jumper Wires (Male-to-Male, Female-to-Male)
